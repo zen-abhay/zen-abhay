@@ -6,7 +6,7 @@ LinkedIn X Email Show Image
 ~/about
 bash
 $ whoami
-zen-abhay
+Abhay
 
 $ cat about.txt
 Computer Science undergrad at Amity University Madhya Pradesh.
