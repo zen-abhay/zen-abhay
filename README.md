@@ -93,19 +93,19 @@ Untracked files:  project_01/  project_02/  project_03/
       <b>📦 project_01</b><br/>
       <sub><code>status: sketching</code></sub><br/><br/>
       <i>Backend service. FastAPI + MongoDB + JWT auth.</i><br/><br/>
-      <img src="https://img.shields.io/badge/progress-▮▯▯▯▯-30363d?style=flat-square" />
+      <img src="https://img.shields.io/badge/progress-%E2%96%AE%E2%96%AF%E2%96%AF%E2%96%AF%E2%96%AF-30363d?style=flat-square" alt="progress" />
     </td>
     <td width="33%" valign="top">
       <b>📦 project_02</b><br/>
       <sub><code>status: planning</code></sub><br/><br/>
       <i>Android app. Kotlin + Gradle.</i><br/><br/>
-      <img src="https://img.shields.io/badge/progress-▯▯▯▯▯-30363d?style=flat-square" />
+      <img src="https://img.shields.io/badge/progress-%E2%96%AF%E2%96%AF%E2%96%AF%E2%96%AF%E2%96%AF-30363d?style=flat-square" alt="progress" />
     </td>
     <td width="33%" valign="top">
       <b>📦 project_03</b><br/>
       <sub><code>status: researching</code></sub><br/><br/>
       <i>ML pipeline. PyTorch + XGBoost + feature engineering.</i><br/><br/>
-      <img src="https://img.shields.io/badge/progress-▯▯▯▯▯-30363d?style=flat-square" />
+      <img src="https://img.shields.io/badge/progress-%E2%96%AF%E2%96%AF%E2%96%AF%E2%96%AF%E2%96%AF-30363d?style=flat-square" alt="progress" />
     </td>
   </tr>
 </table>
@@ -132,7 +132,7 @@ Untracked files:  project_01/  project_02/  project_03/
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zen-abhay&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="top languages" />
+<img src="./profile/top-langs.svg" alt="top languages" />
 
 </div>
 
