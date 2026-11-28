@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=zen-abhay&fontColor=58a6ff&fontSize=56&fontAlignY=40&desc=~%2F%20initializing...&descAlignY=62&descSize=18" width="100%" alt="header" />
+<img src="./assets/banner.gif" width="100%" alt="zen-abhay banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=B.Tech+CS+%40+Amity+University+MP;Backend+%C2%B7+Android+%C2%B7+Applied+ML;Learning+in+public.+Shipping+soon.;%24+git+commit+-m+%22first+of+many%22" alt="typing" />
