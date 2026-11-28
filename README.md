@@ -17,24 +17,19 @@
 
 ---
 
-## 'About'
+## About
 
 ```bash
-$ whoami
-zen-abhay
-
-$ cat about.txt
 Computer Science undergrad at Amity University Madhya Pradesh.
 Into backend systems, Android, and machine learning.
 Currently deep in: Discrete Mathematics, Neural Networks, Deep Learning.
 
-$ echo $STATUS
-building things worth showing. (soon)
+**Status:** building things worth showing. (soon)
 ```
 
 ---
 
-## 'Stack'
+## Stack
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,js,ts,mysql,bash&perline=9)
@@ -145,7 +140,7 @@ Untracked files:  project_01/  project_02/  project_03/
 $ echo "Open to internships and collaborations"
 ```
 
-[abhay2four+business@gmail.com](mailto:abhay2four@gmail.com)
+[abhay2four@gmail.com](mailto:abhay2four@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="footer" />
 
