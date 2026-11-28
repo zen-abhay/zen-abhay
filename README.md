@@ -17,7 +17,7 @@
 
 ---
 
-## `~/about`
+## 'About'
 
 ```bash
 $ whoami
@@ -34,8 +34,7 @@ building things worth showing. (soon)
 
 ---
 
-## `~/stack`
-
+## 'Stack'
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=c,cpp,py,java,kotlin,js,ts,mysql,bash&perline=9)
@@ -43,28 +42,31 @@ building things worth showing. (soon)
 **Back-end**
 
 ![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,mongodb&perline=9)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-3C873A?style=flat-square&logo=openid&logoColor=white)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge&logo=openid&logoColor=white)
 
 **Frontend**
 
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,androidstudio,html,css,gradle&perline=9)
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-1f6feb?style=flat-square)
+
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-1f6feb?style=for-the-badge)
 
 **Cloud and tooling**
 
 ![Cloud](https://skillicons.dev/icons?i=git,github,githubactions&perline=9)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **AI / ML**
 
 ![AI](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,pandas,numpy&perline=9)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-1f6feb?style=flat-square)
 
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-1f6feb?style=for-the-badge)
 ---
 
-## `~/projects`
+## `Projects`
 
 ```console
 $ git log --oneline --all --author="zen-abhay"
@@ -143,7 +145,7 @@ Untracked files:  project_01/  project_02/  project_03/
 $ echo "Open to internships and collaborations"
 ```
 
-[abhay2four+business@gmail.com](mailto:abhay2four+business@gmail.com)
+[abhay2four+business@gmail.com](mailto:abhay2four@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="footer" />
 
