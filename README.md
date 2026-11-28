@@ -112,12 +112,10 @@ Untracked files:  project_01/  project_02/  project_03/
 
 ---
 
-## `~/activity`
+## `Activity`
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=zen-abhay&theme=dark&background=0D1117&border=30363D&ring=1F6FEB&fire=1F6FEB&currStreakLabel=58A6FF" alt="streak" />
-
 <br/><br/>
 
 <picture>
@@ -128,20 +126,7 @@ Untracked files:  project_01/  project_02/  project_03/
 
 <br/>
 
-<img src="./profile/top-langs.svg" alt="top languages" />
-
 </div>
-
----
-
-<div align="center">
-
-```
-$ echo "Open to internships and collaborations"
-```
-
-[abhay2four@gmail.com](mailto:abhay2four@gmail.com)
-
+<p align="center"><sub>Open to SDE roles and internships — <a href="mailto:abhay2four@gmail.com">abhay2four@gmail.com</a></sub></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="footer" />
-
 </div>
